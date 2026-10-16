@@ -1,7 +1,15 @@
 cl\duoc\bn\usuarios\repository\UsuarioRepository.class
-cl\duoc\bn\usuarios\Application.class
+cl\duoc\bn\usuarios\controller\AuthController$LoginRequest.class
+cl\duoc\bn\usuarios\service\UsuarioService.class
 cl\duoc\bn\usuarios\exception\ManejadorExcepciones.class
+cl\duoc\bn\usuarios\controller\AuthController$LoginResponse.class
+cl\duoc\bn\usuarios\service\PasswordHasher.class
+cl\duoc\bn\usuarios\model\Rol.class
+cl\duoc\bn\usuarios\Application.class
+cl\duoc\bn\usuarios\controller\RolController.class
+cl\duoc\bn\usuarios\controller\AuthController.class
 cl\duoc\bn\usuarios\repository\RolRepository.class
 cl\duoc\bn\usuarios\model\Usuario.class
 cl\duoc\bn\usuarios\exception\ApiException.class
-cl\duoc\bn\usuarios\model\Rol.class
+cl\duoc\bn\usuarios\controller\UsuarioController.class
+cl\duoc\bn\usuarios\service\RolService.class
