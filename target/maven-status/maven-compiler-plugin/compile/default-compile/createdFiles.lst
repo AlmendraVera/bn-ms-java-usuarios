@@ -1,0 +1,5 @@
+cl\duoc\bn\usuarios\repository\RolRepository.class
+cl\duoc\bn\usuarios\repository\UsuarioRepository.class
+cl\duoc\bn\usuarios\model\Usuario.class
+cl\duoc\bn\usuarios\Application.class
+cl\duoc\bn\usuarios\model\Rol.class
